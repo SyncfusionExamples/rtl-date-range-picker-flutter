@@ -1,2 +1,2 @@
-# rtl-date-range-picker-flutter
-How to change the working direction (RTL) of the Flutter date range picker (SfDateRangePicker)?
+**[View document in Syncfusion Flutter Knowledge base](https://www.syncfusion.com/kb/11758/how-to-change-the-working-direction-rtl-of-the-flutter-date-range-picker-sfdaterangepicker)**
+
