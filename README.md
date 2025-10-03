@@ -1,7 +1,7 @@
 # Flutter Date Range Pikcer RTL support
 
 
-This repository contains a sample that demonstrates how to enable right-to-left (RTL) layout in the Syncfusion Date Range Picker package.
+This repository contains a sample that demonstrates how to enable right-to-left (RTL) layout in the Syncfusion® Date Range Picker package.
 
 
 ## Syncfusion® controls:
